@@ -30,15 +30,16 @@
     margin: 30px 60px;
 }
 #wall_1 {
-    background: url(../Images/swirl_pattern.png) repeat;
+    background: url(../Images/backgroundTnW4.png) repeat;
     background-attachment: fixed;
+    background-size: cover;
 }
 #wall_2 {
-    background: url(../Images/school.png) repeat;
+    background: url(../Images/backgroundimg1.png);
     background-attachment: fixed;
 }
 #wall_3 {
-    background: url(../Images/skulls.png) repeat;
+    background: url(../Images/backgroundimg2.png) repeat;
     background-attachment: fixed;
 }
 
