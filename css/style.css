@@ -55,6 +55,11 @@ div.bawls {
     float: left;
 }
 
+div.ticketmaster {
+    margin: 5%;
+    float: left;
+}
+
 #wall_3 {
     background: url(../Images/backgroundimg2.png) repeat;
     background-attachment: fixed;
@@ -75,15 +80,11 @@ div.bawls {
 #content_1 {
     height: 500px;
 }
+
 #content_2 {
     height: 500px;
 }
+
 #content_3 {
     height: 500px;
-}
-
-h1::first-letter {
-    font-size: 60px;
-    font-weight: 600;
-    color: #3cb0f8;
 }
